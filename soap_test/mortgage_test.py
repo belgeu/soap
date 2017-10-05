@@ -1,3 +1,4 @@
+# Some comment
 import logging
 import unittest
 from suds.client import Client
